@@ -1,1 +1,1 @@
-# AI-Video-Assistant-Meeting-Intelligence-System
+# AI-Video-Assistant & Meeting-Intelligence-System
